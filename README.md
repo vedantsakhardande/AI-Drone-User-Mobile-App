@@ -1,5 +1,4 @@
-<img src="https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/raw/master/App/assets/dronelogostart.png" width="50">
-# AI-Drone-User-Mobile-App
+<img src="https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/raw/master/App/assets/dronelogostart.png" width="50"> **AI-Drone-User-Mobile-App**
 
 **APK FILE URL** :  https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/raw/master/Apk/AIDroneUser.apk
 
