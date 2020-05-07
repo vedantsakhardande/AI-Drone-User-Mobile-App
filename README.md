@@ -1,7 +1,10 @@
 <h1>AI-Drone-User-Mobile-App </h1>
-<p><img src="https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/raw/master/App/assets/dronelogostart.png" width="150"></p>
+<p><img src="https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/raw/master/App/assets/dronelogostart.png" width="150"> 
 
 **APK FILE URL** :  https://github.com/vedantsakhardande/AI-Drone-User-Mobile-App/raw/master/Apk/AIDroneUser.apk
+</p>
+
+
 
 **AI Drone User Mobile App** is a **REACT NATIVE** app which helps a customer to place a order. 
 
